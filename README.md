@@ -29,7 +29,7 @@ cd sistema_escolar_django-main
 
 # 2. Crie um ambiente virtual (opcional, mas recomendado)
 python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
+venv\Scripts\activate
 
 # 3. Instale o Django
 pip install django
